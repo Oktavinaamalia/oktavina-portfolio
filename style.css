@@ -1,0 +1,14 @@
+* {
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3rem;
+    color: green;
+}
+
+p {
+    font-size: 1.6rem;
+    color: red;
+}
